@@ -1,0 +1,102 @@
+[{
+  "_id": {
+    "$oid": "6606a2febbe3a5b4933758f6"
+  },
+  "title": "Hello life",
+  "author": "Krishna sharma",
+  "Rating": 9,
+  "pages": 105,
+  "review": [
+    {
+      "name": "Parsh",
+      "body": "Nice content"
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "6606a964bbe3a5b4933758f7"
+  },
+  "title": "The Light Fantastic",
+  "author": "Terry Pratchett",
+  "pages": 250,
+  "rating": 6,
+  "genres": [
+    "fantasy",
+    "magic"
+  ],
+  "reviews": [
+    {
+      "name": "luigi",
+      "body": "it was pretty good"
+    },
+    {
+      "name": "bowser",
+      "body": "loved it!!"
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "6606a964bbe3a5b4933758f8"
+  },
+  "title": "The Name of the Wind",
+  "author": "Patrick Rothfuss",
+  "page": 500,
+  "rating": 10,
+  "genres": [
+    "fantasy"
+  ],
+  "review": [
+    {
+      "name": "peach",
+      "body": "one of my favs"
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "6606a964bbe3a5b4933758f9"
+  },
+  "title": "The Color of Magic",
+  "author": "Terry Pratchett",
+  "page": 350,
+  "rating": 8,
+  "genres": [
+    "fantasy",
+    "magic"
+  ],
+  "review": [
+    {
+      "name": "luigi",
+      "body": "it was ok"
+    },
+    {
+      "name": "bowser",
+      "body": "really good book"
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "6606a964bbe3a5b4933758fa"
+  },
+  "title": "1984",
+  "author": "George Orwell",
+  "page": 300,
+  "rating": 6,
+  "genres": [
+    "sci-fi",
+    "dystopian"
+  ],
+  "review": [
+    {
+      "name": "peach",
+      "body": "not my cup of tea"
+    },
+    {
+      "name": "mario",
+      "body": "meh"
+    }
+  ]
+}]
